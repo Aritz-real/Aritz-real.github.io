@@ -115,7 +115,7 @@
 <header class="article-header">
     <h1 class="article-title"></h1>
     <div class="article-meta">
-        <span>01/24, 2026</span>
+        <span>01/25, 2026</span>
 </header>
 
 <!-- 文章正文 -->
@@ -272,6 +272,7 @@
             <p>无论未来有多少风雨，</p>
             <p>我都会陪伴在你身边，爱你永远。</p>
         </div>
+        <audio id="myAudio" src="careless_whisper.MP3" preload="auto" loop="true"></audio>
         
     </div>
     
@@ -326,6 +327,10 @@
             }
             for (let d=0; d< removal.length; d++){container.removeChild(removal[d])}
         }
+        document.addEventListener('DOMContentLoaded', function() {
+            const audio = document.getElementById('myAudio');
+            audio.play();
+        });
         const intervalId = setInterval(createFloatingHearts, 50);
         
     </script>

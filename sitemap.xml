@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aritz-real.github.io/files/happy2026.html</loc>
+    
+    <lastmod>2026-02-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aritz-real.github.io/files/love_for_diao.html</loc>
     
-    <lastmod>2026-01-24</lastmod>
+    <lastmod>2026-01-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,22 +67,22 @@
 
   <url>
     <loc>https://aritz-real.github.io/</loc>
-    <lastmod>2026-01-24</lastmod>
+    <lastmod>2026-02-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://aritz-real.github.io/tags/daily/</loc>
-    <lastmod>2026-01-24</lastmod>
+    <loc>https://aritz-real.github.io/tags/article/</loc>
+    <lastmod>2026-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://aritz-real.github.io/tags/article/</loc>
-    <lastmod>2026-01-24</lastmod>
+    <loc>https://aritz-real.github.io/tags/daily/</loc>
+    <lastmod>2026-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
